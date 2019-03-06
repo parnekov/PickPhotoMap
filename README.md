@@ -8,9 +8,11 @@ JavaScript, React Native, Redux, Redux Thunk, Navigation, Geolocation, Maps, Ima
 ## View
 <table align="left" width="100%">
   <tbody>
-    <tr>
-      <td colspan="1"> <img src="./src/img/screenshot_1.jpg" alt="screenshot"/> </td>
-    </tr>
+      <td colspan="1"> <img src="./src/img/screenshot_1.png" alt=" screenshot"/> </td>
+      <td colspan="2"> <img src="./src/img/screenshot_2.png" alt=" screenshot"/> </td>
+      <td colspan="3"> <img src="./src/img/screenshot_3.png" alt=" screenshot"/> </td>
+      <td colspan="4"> <img src="./src/img/screenshot_4.png" alt=" screenshot"/> </td>
+      <td colspan="5"> <img src="./src/img/screenshot_5.png" alt=" screenshot"/> </td>
   </tbody>
 </table>
 
